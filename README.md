@@ -6,7 +6,7 @@ I bridge the gap between business stakeholders and technical teams, and sometime
 
 ---
 
-### 🧰 My Toolkit
+### My Toolkit
 
 **Analytics & Data:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
@@ -31,7 +31,7 @@ I bridge the gap between business stakeholders and technical teams, and sometime
 
 ---
 
-### 🌱 What I'm Usually Working On
+### What I'm Working On
 
 * 🔍 Analyzing operational data to identify cost-saving opportunities.
 * 💬 Translating business needs into actionable items.
