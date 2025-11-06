@@ -1,6 +1,6 @@
 # Hi, I'm Kate 👋
 
-I'm the **Business Analyst** your engineers don't hate. (I promise, I've seen a terminal before). I specialize in turning complex data into actionable insights and analyzing system gaps.
+I'm the **Business Analyst** your engineers don't hate. (I promise, I've seen a terminal before). I specialize in turning complex data into actionable insights and analyzing system bottlenecks.
 
 I bridge the gap between business stakeholders and technical teams, and sometimes, I like to build the solutions myself.
 
