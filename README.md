@@ -47,13 +47,6 @@ I bridge the gap between business stakeholders and technical teams, and sometime
 
 ---
 
-### 📊 My GitHub Stats
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=katecim&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katecim&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 📫 Let's Connect
 
 * **LinkedIn:** [linkedin.com/in/milotovakate](https://linkedin.com/in/milotovakate)
