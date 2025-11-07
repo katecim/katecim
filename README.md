@@ -1,4 +1,6 @@
-# Hi, I'm Kate 👋
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif&weight=500&size=30&height=50&width=350&lines=Hi,+I%27m+Kate+%F0%9F%91%8B&color=FF1493" alt="Hi, I'm Kate 👋" />
+</p>
 
 I'm the **Business Analyst** your engineers don't hate. (I promise, I've seen a terminal before). I specialize in turning complex data into actionable insights and analyzing system bottlenecks.
 
@@ -8,25 +10,30 @@ I bridge the gap between business stakeholders and technical teams, and sometime
 
 ### My Toolkit
 
-**Analytics & Data:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel">
+**Web Development:** <img src="https://img.shields.io/badge/JavaScript-B8A849?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/HTML5-B5563F?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-4A789C?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/Node.js-5A8357?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/EJS-A89382?style=flat-square" alt="EJS">
 
-**Databases:** <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white" alt="SQL">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle">
-<img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white" alt="Cassandra">
+**Analytics & Data:** <img src="https://img.shields.io/badge/Python-5C7E9C?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Pandas-6B618F?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/Jupyter-C27F51?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+<img src="https://img.shields.io/badge/Microsoft_Excel-588F74?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel">
 
-**BI & Product:** <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI">
-<img src="https://img.shields.io/badge/Amplitude-0055FF?style=flat-square&logo=amplitude&logoColor=white" alt="Amplitude">
+**Databases:** <img src="https://img.shields.io/badge/SQL-6F8BA3?style=flat-square&logo=database&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/Oracle-BF4B4B?style=flat-square&logo=oracle&logoColor=white" alt="Oracle">
+<img src="https://img.shields.io/badge/Cassandra-558C99?style=flat-square&logo=apachecassandra&logoColor=white" alt="Cassandra">
 
-**Tools & Platforms:** <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+**BI & Product:** <img src="https://img.shields.io/badge/Power_BI-B8A249?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI">
+<img src="https://img.shields.io/badge/Amplitude-4F719E?style=flat-square&logo=amplitude&logoColor=white" alt="Amplitude">
+
+**Tools & Platforms:** <img src="https://img.shields.io/badge/Git-C26A5A?style=flat-square&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
+<img src="https://img.shields.io/badge/Postman-D18464?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+<img src="https://img.shields.io/badge/VS_Code-4B7A99?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm">
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
+<img src="https://img.shields.io/badge/Jira-466B99?style=flat-square&logo=jira&logoColor=white" alt="Jira">
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" alt="Confluence">
 
 ---
